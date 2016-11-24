@@ -1,13 +1,13 @@
-package unizar.eina.ucode.tutorial;
+﻿package unizar.eina.ucode.tutorial;
 
 public class Sumadora {
 
     /**
-     * Pre: VIVA ESPAÑAcxcvxvxvxcvxcvxcvxc
+     * Pre: CATALUNYA INDEPENDIENTE
      * Post: Yo que coño sé
      */
     public static int suma () {
-        return 15 + 5 + 10;
+        return 666 + 666 + 666;
     }
 
     /**
