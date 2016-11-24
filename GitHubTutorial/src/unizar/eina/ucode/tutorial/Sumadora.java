@@ -15,6 +15,7 @@ public class Sumadora {
      * Post: Yo que coño sé
      */
     public static int otroMetodo () {
+      while(1){}
         return 0;
     }
 
