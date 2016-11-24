@@ -40,7 +40,9 @@ public class Sumadora {
      *  Post: NICOLAS MADURÓ EN LA CARCEL
      */
     public static void main (String[] argumentos) {
+        int Marcos = 999;
     	System.out.println(suma());
+        System.out.println(Marcos);
     }
 
 }
