@@ -1,15 +1,15 @@
 package unizar.eina.ucode.tutorial;
 
-public class Sumadora {	
+public class Sumadora {
 
     /**
      * Pre: VIVA ESPAÑA
      * Post: Yo que coño sé
      */
     public static int suma () {
-        return 10 + 5 + 10;
+        return 15 + 5 + 10;
     }
-    
+
     /**
      * Pre: VIVA EL REY
      * Post: Yo que coño sé
