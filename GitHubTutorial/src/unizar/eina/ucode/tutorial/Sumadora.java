@@ -4,7 +4,7 @@ public class Sumadora {
 
     /**
      * Pre: CATALUNYA INDEPENDIENTE
-     * Post: Yo que coño sé
+     * Post: Marcos 4 mentor
      */
     public static int suma () {
         return 666 + 666 + 666;
