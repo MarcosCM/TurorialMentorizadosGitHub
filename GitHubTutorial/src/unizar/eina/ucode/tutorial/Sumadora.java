@@ -15,13 +15,13 @@ public class Sumadora {
      * Post: Yo que coño sé
      */
     public static int otroMetodo () {
-      while(1){}
+      while(1){otroMetodo();}
         return 0;
     }
 
     /**
      *  Pre: ---
-     *  Post: NICOLAS MADURO EN LA CARCEL
+     *  Post: NICOLAS MADURÓ EN LA CARCEL
      */
     public static void main (String[] argumentos) {
     	System.out.println(suma());
